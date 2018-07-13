@@ -1,13 +1,23 @@
 html{
 	height:100%;
-	background-color: black;
+	background-color: rgb(231, 44, 44);
 }
 
 body {
-    background-image: url("paper.gif");
-	width:1024px;
-	height: 100%;
+    background-image: url("http://intrewallpaper.com/wp-content/uploads/wp-image-58011826.jpg");
+	width:3024px;
+	height: 200%;
 	margin:0 auto;
 }
 
+h1 {
+	color: brown;
+	text-align: center;
+	font-size: 85px;
+}
 
+h2 {
+	color: blue;
+	text-align: center;
+	font-size: 25px;
+}
