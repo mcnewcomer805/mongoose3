@@ -17,7 +17,7 @@ var db = require("./models");
 app.use(logger("dev"));
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(express.static("public"));
-var databaseUri ='mongodb://localhost/mongoose';
+var databaseUri ='mongodb://localhost/scrapedata';
   if (process.env.MONGODB_URI) {
     mongoose.connect(process.env.MONGODB_URI);
   } else {
