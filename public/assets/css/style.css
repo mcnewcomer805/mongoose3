@@ -1,0 +1,13 @@
+html{
+	height:100%;
+	background-color: black;
+}
+
+body {
+    background-image: url("paper.gif");
+	width:1024px;
+	height: 100%;
+	margin:0 auto;
+}
+
+
